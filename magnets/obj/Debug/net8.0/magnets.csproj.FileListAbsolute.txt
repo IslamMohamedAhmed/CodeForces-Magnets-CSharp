@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\bin\Debug\net8.0\magnets.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\bin\Debug\net8.0\magnets.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\bin\Debug\net8.0\magnets.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\bin\Debug\net8.0\magnets.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\bin\Debug\net8.0\magnets.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\refint\magnets.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\magnets.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\magnets\magnets\obj\Debug\net8.0\ref\magnets.dll
